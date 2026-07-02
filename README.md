@@ -10,19 +10,21 @@
 ## Technologies
 
 - Windows
+- IT Support
 - Hardware
 - Networking
 - Python
 - SQL
+- Git
+- GitHub
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
 
 ## About Me
 
-I'm passionate about technology and continuously improving my technical skills. This GitHub is where I share projects, studies, and practical solutions developed throughout my learning journey.
+Passionate about technology and focused on building a career in IT Support and Infrastructure. I use this GitHub to share projects, practical solutions and continuous learning throughout my journey in Information Technology.
 
 ## Connect with Me
 
-- LinkedIn: https://www.linkedin.com/in/vinicius-assumpcao-francisco
+https://www.linkedin.com/in/vinicius-assumpcao-francisco
