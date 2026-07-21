@@ -15,7 +15,7 @@
 - Networking
 - Python
 - SQL
-- Git
+- Excel
 - GitHub
 - HTML
 - CSS
